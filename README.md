@@ -1,4 +1,4 @@
-# GenresULiked
+# Spotify Genre Organizer: AI-Powered Playlist Categorizer
 A Spotify Liked playlist categorizer that creates new playlists to organize liked songs based on genre using an AI agent help in classification
 
 AI agent used llama-3.3-70b-versatile
